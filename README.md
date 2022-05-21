@@ -76,8 +76,3 @@ Trojan-go
 }
 ```
 
-## 感谢列表
-
-原作者项目：https://github.com/wgp-2020/AX
-
-Fork自项目：https://github.com/Misaka-blog/AX
